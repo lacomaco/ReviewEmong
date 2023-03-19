@@ -1,4 +1,4 @@
-![](https://velog.velcdn.com/images/lacomaco/post/3491db8e-2a4e-4cfd-9deb-be2a26a5775e/image.gif)
+![gif 파일](https://velog.velcdn.com/images/lacomaco/post/3491db8e-2a4e-4cfd-9deb-be2a26a5775e/image.gif)
 
 ### ReviewEmong
 
