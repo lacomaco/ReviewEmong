@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        width: 200px;
+      }
+
+      body * {
+        margin-bottom: 10px;
+      }
+
+      .hide {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="status">
+      <span class="title">Open API KEY 입력</span>
+      <span class="gptMode">코드 리뷰 모드 활성화</span>
+    </div>
+    <input class="openApiInput" />
+    <button class="keyChange">key 변경하기</button>
+    <button class="keyInput">key 입력하기</button>
+  </body>
+
+  <script src="popup.js"></script>
+</html>
